@@ -493,6 +493,6 @@ footer p {
 
 @media only screen and (max-height: 800px) {
   .back-height {
-    height: 100%;
+    height: 80%;
   }
 }
